@@ -1,0 +1,2 @@
+# MyFirstSample
+Maven sample project
